@@ -1,0 +1,25 @@
+{
+
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:sahil$24@localhost/codingThunder",
+        "prod_uri":"mysql://root:sahil$24@localhost/codingThunder",
+        "tw_url":"https://twitter.com/codingThunder",
+        "fb_url":"https://facebook.com/codingThunder",
+        "gh_url":"https://github.com/codingThunder",
+        "blog_name":"Reliance Coding",
+        "tag_line":"A Blog liked by Jio Users.",
+        "gmail-user":"gujarathisahil7@gmail.com",
+        "gmail-password":"ymhnzdxrzbkczvti",
+        "gmail-recep":"sahilg.it_ioe@bkc.met.edu",
+        "about-text":"We at Reliance Coding Deliver a high quality coding content. \n We regularly post articles on Bug fixes , coding , coding tutorials and all the technology related stuff for the techno-savy youth.",
+        "no-of-posts":2,
+        "login-img":"login.png",
+        "admin_user":"sahil",
+        "admin_pass":"sahil",
+        "upload_location":"C:\\Users\\Admin\\Desktop\\Flask Projects\\Reliance Coding\\static"
+    }
+
+}
+
